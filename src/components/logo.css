@@ -1,0 +1,24 @@
+    
+.logo{
+    float: left;
+    padding-left: 100px;
+    padding-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px#5c676b;
+  }
+
+.textmenu{
+  font-size : 15px;
+  text-decoration-style: none;
+  padding-top: 7px;
+}
+
+.menuBar{
+  padding-top: 0px;
+  border-bottom: solid 1px #e8e8e8;
+  overflow: auto;
+  
+}
+.menuCon .ant-menu-horizontal{
+  border-bottom: none;}
